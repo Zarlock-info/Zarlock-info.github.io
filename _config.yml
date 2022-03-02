@@ -6,3 +6,6 @@ minima:
 header_pages:
   - about.md
   - portfolio.md
+  
+disqus:
+    shortname: my_disqus_shortname
